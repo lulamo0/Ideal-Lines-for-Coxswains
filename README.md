@@ -1,15 +1,15 @@
 # Ideal-Lines-for-Coxswains
 Using uploaded images, users can map out the shortest line down a rowing course. 
 
-============================================================================================================
+=================================================================================================
 
 Process: 
-1. download the spokane river map and Comp_Project.py into the same folder
-2. open in VSCode (or program of your choosing)
-3. be sure required libraries are installed (numpy, matplotlib, Pillow, scikit-image, scipy, networkx)
-4. run code 
+1. Download the spokane river map and Comp_Project.py into the same folder
+2. Open in VSCode (or program of your choosing)
+3. Be sure required libraries are installed (numpy, matplotlib, Pillow, scikit-image, scipy, networkx)
+4. Run code 
 
-=============================================================================================================
+=================================================================================================
 
 What the Code Does:
 1. Automatic River Extraction
